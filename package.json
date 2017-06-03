@@ -1,0 +1,14 @@
+{
+  "name": "hubot-transmission",
+  "version": "0.0.1",
+  "description": "Transmission client in hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "hbc <me@hbc.rocks>",
+  "license": "MIT",
+  "dependencies": {
+    "transmission": "^0.4.9"
+  }
+}
